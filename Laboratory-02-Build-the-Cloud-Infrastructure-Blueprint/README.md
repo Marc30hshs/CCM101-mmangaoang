@@ -1,5 +1,5 @@
 
-# ☁️ Cloud Infrastructure Laboratory
+# Cloud Infrastructure Laboratory
 
 ## Mission Overview
 
