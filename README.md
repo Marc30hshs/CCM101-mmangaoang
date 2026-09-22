@@ -17,4 +17,4 @@ This repository contains all my laboratory activities for CCM101 Cloud Computing
 
 ### Overall Progress
 
-**Progress: 3/3 Laboratory Activities Completed — 100% ✅**
+**Progress: 4/5 Laboratory Activities Completed — 80% ✅**
